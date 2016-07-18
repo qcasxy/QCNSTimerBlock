@@ -2,7 +2,7 @@
 NSTimer的block实现方式，新增计数次数count属性
 
 #安装
-将NSTimer+QCBlock文件夹添加到项目中
+将NSTimer+QCBlock文件夹添加到项目中<br/>
 支持cocoapods依赖管理，在podfile中添加pod 'QCNSTimerBlock', '~> 0.0.1'即可
 
 #使用
