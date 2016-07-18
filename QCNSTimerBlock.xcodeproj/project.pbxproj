@@ -291,6 +291,7 @@
 				27953D4A1D387F7A005C7CF2 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
