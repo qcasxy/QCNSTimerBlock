@@ -1,6 +1,7 @@
 //
 //  NSTimer+QCBlock.h
 //  QCTimerExtension
+//  version 0.0.2
 //
 //  Created by QC on 16/7/13.
 //  Copyright © 2016年 QC. All rights reserved.
